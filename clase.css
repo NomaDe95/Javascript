@@ -1,0 +1,15 @@
+/*Tres formas declarar estilos*/
+
+/*Primera forma con id = # */
+#titulo{
+    color:red;
+    font-size: 36px
+}
+/*Segunda forma con class, utilizamos .*/
+.tipoLetra{
+    font-style: italic;
+}
+/*Tercera forma con etiquetas*/
+body{
+    background-color: whitesmoke;
+}
